@@ -9,8 +9,8 @@
 
 
 <h2>📃 Certifications </h2>
+
 [Google Cybersecurity Professional](https://github.com/jamshaidsyed/Certs-and-Degrees/blob/main/Google%20Cyber%20Security%20Cert%20FKKS355ZA2RY.pdf)
-[Installing and Configuring a Virtual Network](https://github.com/jamshaidsyed/VirtualMachines/tree/main)
 
 
 <!--
