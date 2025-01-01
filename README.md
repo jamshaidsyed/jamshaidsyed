@@ -5,7 +5,7 @@
 
 <h2>💼 Projects </h2>
 
-[Installing And Configuring A Virtual Network](https://github.com/jamshaidsyed/VirtualMachines/tree/main)
+[Installing and Configuring a Virtual Network](https://github.com/jamshaidsyed/VirtualMachines/tree/main)
 
 
 <h2>📃 Certifications </h2>
