@@ -1,7 +1,9 @@
 <h1>Hi, I'm Jamshaid! <br/><a href="https://www.linkedin.com/in/jamshaidsyed/">Programmer</a>, <a href="https://www.linkedin.com/in/jamshaidsyed/">Cybersecurity Professional</a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
 
 <h2>🎓 Education</h2>
-<a><strong>University of Central Florida</strong>  <br/>Bachelor of Science in Information Technology </a>
+<a><strong>University of Central Florida</strong>  <br/> </a>
+
+[Bachelor of Science in Information Technology](https://github.com/jamshaidsyed/Certs-and-Degrees/blob/main/BS%20IT%20Degree.pdf)
 
 <h2>💼 Projects </h2>
 
