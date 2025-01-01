@@ -2,13 +2,14 @@
 
 <h2>🎓 Education</h2>
 <a><strong>University of Central Florida</strong>  <br/>Bachelor of Science in Information Technology </a>
+
 <h2>💼 Projects </h2>
-- <b>Installing And Configuring A Virtual Network</b>
-  - [Installing And Configuring A Virtual Network](https://github.com/jamshaidsyed/VirtualMachines/tree/main)
+
+[Installing And Configuring A Virtual Network](https://github.com/jamshaidsyed/VirtualMachines/tree/main)
+
 
 <h2>📃 Certifications </h2>
-
-- [Google Cybersecurity Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Cybersecurity Professional]()
 
 
 
