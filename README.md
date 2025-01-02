@@ -12,7 +12,7 @@
 
 <h2>📃 Certifications </h2>
 
-[Google Cybersecurity Professional](https://github.com/jamshaidsyed/Certs-and-Degrees/blob/main/Google%20Cyber%20Security%20Cert%20FKKS355ZA2RY.pdf)
+[Google Cybersecurity Professional](https://github.com/jamshaidsyed/Certs-and-Degrees/blob/main/Google%20Cyber%20Security%20Cert%20FKKS355ZA2RY.pdf) <br/>
 [TesOut IT Fundamentals Pro Cert](https://github.com/jamshaidsyed/Certs-and-Degrees/blob/main/TestOut%20IT%20fundamentals%20Certificate%20.pdf)
 
 <!--
