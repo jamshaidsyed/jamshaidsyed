@@ -13,7 +13,7 @@
 <h2>📃 Certifications </h2>
 
 [Google Cybersecurity Professional](https://github.com/jamshaidsyed/Certs-and-Degrees/blob/main/Google%20Cyber%20Security%20Cert%20FKKS355ZA2RY.pdf)
-
+[TesOut IT Fundamentals Pro Cert](https://github.com/jamshaidsyed/Certs-and-Degrees/blob/main/TestOut%20IT%20fundamentals%20Certificate%20.pdf)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
