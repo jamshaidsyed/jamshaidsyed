@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jamshaid! <br/><a href="https://www.linkedin.com/in/jamshaidsyed/">Programmer</a>, <a href="https://www.linkedin.com/in/jamshaidsyed/">Cybersecurity Professional</a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
+<h1>Hi, I'm Jamshaid! <br/><a href="https://www.linkedin.com/in/jamshaidsyed/">Network Professional</a>, <a href="https://www.linkedin.com/in/jamshaidsyed/">Cybersecurity Professional</a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
 
 <h2>🎓 Education</h2>
 <a><strong>University of Central Florida</strong>  <br/> </a>
