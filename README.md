@@ -13,6 +13,8 @@
 <h2>📃 Certifications </h2>
 
 [Google Cybersecurity Professional](https://github.com/jamshaidsyed/Certs-and-Degrees/blob/main/Google%20Cyber%20Security%20Cert%20FKKS355ZA2RY.pdf) <br/>
+[CompTIA Security+](https://github.com/jamshaidsyed/Certs-and-Degrees/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf) 
+<br/>
 [TesOut IT Fundamentals Pro Cert](https://github.com/jamshaidsyed/Certs-and-Degrees/blob/main/TestOut%20IT%20fundamentals%20Certificate%20.pdf)
 
 <!--
