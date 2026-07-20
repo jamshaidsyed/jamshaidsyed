@@ -12,11 +12,11 @@
 
 <h2>📃 Certifications </h2>
 
-[Google Cybersecurity Professional](https://github.com/jamshaidsyed/Certs-and-Degrees/blob/main/Google%20Cyber%20Security%20Cert%20FKKS355ZA2RY.pdf) <br>
-[CompTIA Security+](https://github.com/jamshaidsyed/Certs-and-Degrees/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf) 
-[TesOut IT Fundamentals Pro Cert](https://github.com/jamshaidsyed/Certs-and-Degrees/blob/main/TestOut%20IT%20fundamentals%20Certificate%20.pdf)
-[ServiceNow Certified System Administrator (CSA)](https://github.com/jamshaidsyed/Certs-and-Degrees/blob/main/ServiceNow%20Certified%20System%20Administrator%20(CSA).pdf)
-[ServiceNow Certified Application Developer (CAD)](https://github.com/jamshaidsyed/Certs-and-Degrees/blob/main/ServiceNow%20Certified%20Application%20Developer%20(CAD).pdf)
+[Google Cybersecurity Professional](https://github.com/jamshaidsyed/Certs-and-Degrees/blob/main/Google%20Cyber%20Security%20Cert%20FKKS355ZA2RY.pdf) <br/>
+[CompTIA Security+](https://github.com/jamshaidsyed/Certs-and-Degrees/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf) <br/>
+[TesOut IT Fundamentals Pro Cert](https://github.com/jamshaidsyed/Certs-and-Degrees/blob/main/TestOut%20IT%20fundamentals%20Certificate%20.pdf)<br/>
+[ServiceNow Certified System Administrator (CSA)](https://github.com/jamshaidsyed/Certs-and-Degrees/blob/main/ServiceNow%20Certified%20System%20Administrator%20(CSA).pdf)<br/>
+[ServiceNow Certified Application Developer (CAD)](https://github.com/jamshaidsyed/Certs-and-Degrees/blob/main/ServiceNow%20Certified%20Application%20Developer%20(CAD).pdf)<br/>
 <br/>
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
